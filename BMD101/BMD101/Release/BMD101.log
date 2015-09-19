@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/4/7 16:20:09。
+     1>项目“C:\Users\zlj\Desktop\BMD101\BMD101\BMD101.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_bmd101.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_bmd101.cpp, GeneratedFiles\Release\moc_bmd101.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_DataCollectThread.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_DataCollectThread.cpp, GeneratedFiles\Release\moc_DataCollectThread.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_qcustomplot.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_qcustomplot.cpp, GeneratedFiles\Release\moc_qcustomplot.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_qextserialbase.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_qextserialbase.cpp, GeneratedFiles\Release\moc_qextserialbase.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_qextserialport.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_qextserialport.cpp, GeneratedFiles\Release\moc_qextserialport.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_win_qextserialport.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_win_qextserialport.cpp, GeneratedFiles\Release\moc_win_qextserialport.cpp.
+     1>Link:
+         BMD101.vcxproj -> C:\Users\zlj\Desktop\BMD101\Win32\Release\BMD101.exe
+     1>已完成生成项目“C:\Users\zlj\Desktop\BMD101\BMD101\BMD101.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.39

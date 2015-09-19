@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/BMD101">
+        <file>WindowIcon.ico</file>
+    </qresource>
+</RCC>

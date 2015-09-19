@@ -1,0 +1,34 @@
+﻿生成启动时间为 2015/4/5 23:58:02。
+     1>项目“C:\Users\zlj\Desktop\BMD101\BMD101\BMD101.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_bmd101.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_bmd101.cpp, GeneratedFiles\Release\moc_bmd101.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_DataCollectThread.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_DataCollectThread.cpp, GeneratedFiles\Release\moc_DataCollectThread.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_qcustomplot.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_qcustomplot.cpp, GeneratedFiles\Release\moc_qcustomplot.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_qextserialbase.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_qextserialbase.cpp, GeneratedFiles\Release\moc_qextserialbase.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_qextserialport.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_qextserialport.cpp, GeneratedFiles\Release\moc_qextserialport.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_win_qextserialport.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_win_qextserialport.cpp, GeneratedFiles\Release\moc_win_qextserialport.cpp.
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\zlj\Desktop\BMD101\BMD101\qlog /IC:\Users\zlj\Desktop\BMD101\BMD101\qBMD101 /IC:\Users\zlj\Desktop\BMD101\BMD101\qcustomplot /IC:\Users\zlj\Desktop\BMD101\BMD101\qextserialport /I.\GeneratedFiles /I. /ID:\Qt\Qt5.4.0\5.4\msvc2013\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.4.0\5.4\msvc2013\include\QtCore /ID:\Qt\Qt5.4.0\5.4\msvc2013\include\QtGui /ID:\Qt\Qt5.4.0\5.4\msvc2013\include\QtWidgets /ID:\Qt\Qt5.4.0\5.4\msvc2013\include\QtPrintSupport /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_PRINTSUPPORT_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt bmd101.cpp
+         bmd101.cpp
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zlj\Desktop\BMD101\Win32\Debug\\BMD101.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.4.0\5.4\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5PrintSupportd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\zlj\Desktop\BMD101\Win32\Debug\BMD101.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zlj\Desktop\BMD101\Win32\Debug\BMD101.lib" /MACHINE:X86 /SAFESEH Debug\BMD101.res
+         Debug\bmd101.obj
+         Debug\DataCollectThread.obj
+         Debug\moc_bmd101.obj
+         Debug\moc_DataCollectThread.obj
+         Debug\moc_qcustomplot.obj
+         Debug\moc_qextserialbase.obj
+         Debug\moc_qextserialport.obj
+         Debug\moc_win_qextserialport.obj
+         Debug\qrc_bmd101.obj
+         Debug\main.obj
+         Debug\qcustomplot.obj
+         Debug\qextserialbase.obj
+         Debug\qextserialport.obj
+         Debug\win_qextserialport.obj
+         Debug\qlog.obj
+         BMD101.vcxproj -> C:\Users\zlj\Desktop\BMD101\Win32\Debug\BMD101.exe
+     1>已完成生成项目“C:\Users\zlj\Desktop\BMD101\BMD101\BMD101.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.90
